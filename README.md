@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Guillen</h1>
 <h3 align="center">A passionate Full Stack Developer from Colombia</h3>
 
-- 🔭 Check out my latest project! [Food-Hub](https://github.com/ChineseMalbec/Food-Hub)
+- 🔭 Check out my latest project! [Movie-App](https://github.com/ChineseMalbec/Movie-App)
 
 - 💬 Ask me about **JavaScript, React, Redux, NodeJS, HTML & CSS**
 
